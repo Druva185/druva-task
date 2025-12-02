@@ -1,0 +1,2 @@
+laptop="lenovo"
+echo $laptop
